@@ -170,5 +170,5 @@ Uso educativo y ético únicamente
 
 ---
 
-**Creado por David Rumbaut**  
+**Creado por Davidrt**  
 🕒 Actualizado: **Dec 2025**
