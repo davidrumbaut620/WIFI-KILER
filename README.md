@@ -62,31 +62,13 @@ chmod +x wifi_kiler.sh
 
 ```text
                                                                                                                                                                
-                                                                                                                                                               
-                                           iiii     ffffffffffffffff    iiii       KKKKKKKKK    KKKKKKK  iiii  lllllll                                         
-                                          i::::i   f::::::::::::::::f  i::::i      K:::::::K    K:::::K i::::i l:::::l                                         
-                                           iiii   f::::::::::::::::::f  iiii       K:::::::K    K:::::K  iiii  l:::::l                                         
-                                                  f::::::fffffff:::::f             K:::::::K   K::::::K        l:::::l                                         
-wwwwwww           wwwww           wwwwwwwiiiiiii  f:::::f       ffffffiiiiiii      KK::::::K  K:::::KKKiiiiiii  l::::l     eeeeeeeeeeee    rrrrr   rrrrrrrrr   
- w:::::w         w:::::w         w:::::w i:::::i  f:::::f             i:::::i        K:::::K K:::::K   i:::::i  l::::l   ee::::::::::::ee  r::::rrr:::::::::r  
-  w:::::w       w:::::::w       w:::::w   i::::i f:::::::ffffff        i::::i        K::::::K:::::K     i::::i  l::::l  e::::::eeeee:::::eer:::::::::::::::::r 
-   w:::::w     w:::::::::w     w:::::w    i::::i f::::::::::::f        i::::i        K:::::::::::K      i::::i  l::::l e::::::e     e:::::err::::::rrrrr::::::r
-    w:::::w   w:::::w:::::w   w:::::w     i::::i f::::::::::::f        i::::i        K:::::::::::K      i::::i  l::::l e:::::::eeeee::::::e r:::::r     r:::::r
-     w:::::w w:::::w w:::::w w:::::w      i::::i f:::::::ffffff        i::::i        K::::::K:::::K     i::::i  l::::l e:::::::::::::::::e  r:::::r     rrrrrrr
-      w:::::w:::::w   w:::::w:::::w       i::::i  f:::::f              i::::i        K:::::K K:::::K    i::::i  l::::l e::::::eeeeeeeeeee   r:::::r            
-       w:::::::::w     w:::::::::w        i::::i  f:::::f              i::::i      KK::::::K  K:::::KKK i::::i  l::::l e:::::::e            r:::::r            
-        w:::::::w       w:::::::w        i::::::if:::::::f            i::::::i     K:::::::K   K::::::Ki::::::il::::::le::::::::e           r:::::r            
-         w:::::w         w:::::w         i::::::if:::::::f            i::::::i     K:::::::K    K:::::Ki::::::il::::::l e::::::::eeeeeeee   r:::::r            
-          w:::w           w:::w          i::::::if:::::::f            i::::::i     K:::::::K    K:::::Ki::::::il::::::l  ee:::::::::::::e   r:::::r            
-           www             www           iiiiiiiifffffffff            iiiiiiii     KKKKKKKKK    KKKKKKKiiiiiiiillllllll    eeeeeeeeeeeeee   rrrrrrr            
-                                                                                                                                                               
-                                                                                                                                                               
-                                                                                                                                                               
-                                                                                                                                                               
-                                                                                                                                                               
-                                                                                                                                                               
-                                                                                                                                                               
-
+██     ██ ██ ███████ ██     ██   ██ ██ ██      ██      ███████ ██████  
+██     ██ ██ ██      ██     ██  ██  ██ ██      ██      ██      ██   ██ 
+██  █  ██ ██ █████   ██     █████   ██ ██      ██      █████   ██████  
+██ ███ ██ ██ ██      ██     ██  ██  ██ ██      ██      ██      ██   ██ 
+ ███ ███  ██ ██      ██     ██   ██ ██ ███████ ███████ ███████ ██   ██ 
+                                                                       
+                                                                                                                                                                                                                              
       WIFI KILLER
      (ARP SPOOFING)
 ```
